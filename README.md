@@ -240,16 +240,6 @@ Output:
 
 ---
 
-## 🎥 Demo Video Script (Suggestion)  
-
-1. **Intro (10 s)** – “Hi, I’m Swayam, and this is LlamaLens.”  
-2. **Show app** – Paste API error → click **Analyze**  
-3. **Explain output** – Llama suggests fix  
-4. **Show Docker run** – `docker build` + `docker run`  
-5. **End** – Show architecture diagram + GitHub link  
-
----
-
 ## 🧠 Design Principles  
 
 - 🧩 Modular Code (UI, Logic, Helpers separated)  
